@@ -42,7 +42,7 @@
 &nbsp;
 ***
 ## **🔥Netlify Live Link🔥**
-- 
+- [Street Style Landing Page](https://live-project-1-fullstackjsbootcamp.netlify.app/)
 
 &nbsp;
 ***
