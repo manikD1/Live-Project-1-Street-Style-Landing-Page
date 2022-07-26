@@ -47,4 +47,4 @@
 &nbsp;
 ***
 ## **📷 Post Designing Screenshot 📷**
-- 
+![](https://github.com/manikD1/Live-Project-1-Street-Style-Landing-Page/blob/main/Actual-Screenshot.JPG)
