@@ -46,5 +46,7 @@
 
 &nbsp;
 ***
-## **📷 Post Designing Screenshot 📷**
-![](https://github.com/manikD1/Live-Project-1-Street-Style-Landing-Page/blob/main/Actual-Screenshot.JPG)
+## **📷 Post Designing Screenshots 📷**
+![](https://github.com/manikD1/Live-Project-1-Street-Style-Landing-Page/blob/main/Screenshots/Actual-Screenshot.JPG)
+![](https://github.com/manikD1/Live-Project-1-Street-Style-Landing-Page/blob/main/Screenshots/Actual-Screenshot-2.JPG)
+![](https://github.com/manikD1/Live-Project-1-Street-Style-Landing-Page/blob/main/Screenshots/Actual-Screenshot-3.JPG)
