@@ -84,7 +84,7 @@ body{
 
 .square{
     position: absolute;
-    bottom: 45px;
+    top: 470px;
     left: 230px;
     z-index: -1;
 }
@@ -198,7 +198,7 @@ body{
     }
 
     .square{
-        bottom: 250px;
+        top: 270px;
         left: 80px;
     }
 
@@ -290,7 +290,7 @@ body{
     }
 
     .square{
-        bottom: 295px;
+        top: 350px;
         left: 440px;
     }
 
@@ -312,7 +312,7 @@ body{
 @media (max-width: 750px){
 
     .square{
-        bottom: 255px;
+        top: 485px;
         left: 310px;
     }
 

@@ -37,7 +37,7 @@
 ## **🖥️ Ideal Display Resolution 🖥️**
 
 - 1920 * 1080
-- Currently *Non-responsive.*
+- *FULLY RESPONSIVE*
 
 &nbsp;
 ***
